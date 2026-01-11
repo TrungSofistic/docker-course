@@ -1,8 +1,9 @@
 # Resources:
 
-- The video: https://www.youtube.com/watch?v=GFgJkfScVNU
-- Video resources: https://jsmastery.com/video-kit/e27c9ec5-c768-4ebd-85de-f8836f6c07de
-- Notion node: https://www.notion.so/trungtrinhh/Docker-Tutorial-2e5fc6d4e44880f1817af7ed0b2b4fd7?source=copy_link
+- [The video](https://www.youtube.com/watch?v=GFgJkfScVNU)
+- [Video resources](https://jsmastery.com/video-kit/e27c9ec5-c768-4ebd-85de-f8836f6c07de)
+- [Notion node](https://www.notion.so/trungtrinhh/Docker-Tutorial-2e5fc6d4e44880f1817af7ed0b2b4fd7?source=copy_link)
+- [Docker cheat sheet](https://github.com/TrungSofistic/docker-course/blob/main/Docker%20Cheat%20Sheet.pdf)
 
 # Commands
 
